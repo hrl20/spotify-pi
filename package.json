@@ -19,7 +19,7 @@
     "babel-loader": "^8.0.6",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "dev": "webpack --mode development --watch ./backend/frontend/src/index.js --output ./backend/frontend/static/frontend/main.js",
